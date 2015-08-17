@@ -1,5 +1,5 @@
 {
-    "name": "artistan/urlencode",
+    "name": "spadbob/urlencode",
     "description": "Allow Urlencoded slashed and more in routing parameters",
     "keywords": ["artistan", "urlencode", "laravel", "laravel4"],
     "license": [
@@ -9,6 +9,10 @@
         {
             "name": "Charles Peterson",
             "email": "artistan@gmail.com"
+        },
+        {
+            "name": "Bob Maidens",
+            "email": "bob.maidens@gmail.com"
         }
     ],
     "require": {
