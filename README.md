@@ -5,9 +5,9 @@ Overrides the default routing in Laravel 4 to allow all characters to be encoded
 
 ### Composer Configuration
 
-Include the artistan urlencode package as a dependency in your `composer.json` [Packagist](https://packagist.org/packages/artistan/urlencode):
+Include the artistan urlencode package as a dependency in your `composer.json` [Packagist](https://packagist.org/packages/spadbob/urlencode):
 
-    "artistan/urlencode": "1.0.*"
+    "spadbob/urlencode": "1.0.*"
 
 ### Installation
 
